@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Georgy. I from Russia. I'm 15 years old
-- 👀 I’m interested in cybersecurity informstics, Porsche cars, sports and motorbikes 
-- 🌱 I’m currently learning in school 1275 in Russia with study of French
-- 💞️ I want to work in Google 
+- 👋 Hi, I’m Georgy. I from Russia. I'm 18 years old
+- 👀 I’m interested in cybersecurity informstics, sports, business analytics and economics 
+- 🌱 Plekhanov Russian University of Economics 
 
 <!---
 Jumbaira/Jumbaira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
