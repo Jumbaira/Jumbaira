@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Georgy. I from Russia. I'm 18 years old
+- 👋 Hi, I’m Georgii. I from Russia. I'm 18 years old
 - 👀 I’m interested in cybersecurity informstics, sports, business analytics and economics 
 - 🌱 Plekhanov Russian University of Economics 
 
